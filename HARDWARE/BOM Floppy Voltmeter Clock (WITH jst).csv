@@ -1,0 +1,20 @@
+Reference;Value;LCSC;Footprint;Datasheet;Qty
+BT1;Q&J CR2032-BS-6-1;C70377;Battery:BatteryHolder_Keystone_1060_1x2032;https://www.lcsc.com/datasheet/lcsc_datasheet_2409302302_Q-J-CR2032-BS-6-1_C70377.pdf;1
+C1-C3-C6-C7;4.7uF;C967590;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;~;4
+C2-C4-C5-C8;100nF;C476766;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;~;4
+D1;3V3_POWER_LED;C7496834;LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;~;1
+D2;LED_ALIVE;C965815;LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;~;1
+J1;BUTTONS;C144394;Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical;~;1
+J2;USB-C 6P;C2927027;_MIA footprint:USB-C (only power);https://datasheet.lcsc.com/lcsc/2201121330_DEALON-USB-TYPE-C-007_C2927027.pdf;1
+J3;BUTTONS IN BOARD;C144394;Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical;~;1
+J4;hours;C158012;Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical;~;1
+J5;minutes;C158012;Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical;~;1
+J6;seconds;C158012;Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical;~;1
+R1-R2-R3-R5-R6-R7;5.1k;C23186;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;~;6
+R4;15K;C23186;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;~;1
+SW1;RESET_B;C318884;_MIA footprint:SMD BUTTON 5.1x5.1;~;1
+SW2;MINUTES;C318884;_MIA footprint:SMD BUTTON 5.1x5.1;~;1
+SW3;HOURS;C318884;_MIA footprint:SMD BUTTON 5.1x5.1;~;1
+U1;STM32G030F6Px;C724040;Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm;https://www.st.com/resource/en/datasheet/stm32g030f6.pdf;1
+U2;H7233-1;C277859;Package_TO_SOT_SMD:SOT-23;https://datasheet.lcsc.com/lcsc/2304140030_Shanghai-Siproin-Microelectronics-H7233-1_C277859.pdf;1
+U3;DS3231M;C9866;Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm;http://datasheets.maximintegrated.com/en/ds/DS3231.pdf;1
